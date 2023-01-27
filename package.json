@@ -1,5 +1,5 @@
 {
-  "name": "projeto02",
+  "name": "projeto3",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,8 +12,10 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "mongoose": "^6.8.4",
-    "nodemon": "^2.0.20",
+    "mongoose": "^6.9.0",
     "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
   }
 }
